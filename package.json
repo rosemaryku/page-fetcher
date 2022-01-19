@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosemaryku/page-fatcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosemaryku/page-fatcher/issues"
+  },
+  "homepage": "https://github.com/rosemaryku/page-fatcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
